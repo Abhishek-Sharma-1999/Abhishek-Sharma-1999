@@ -5,6 +5,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Sharma-1999&theme=dark-smoky)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Sharma-1999)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Sharma-1999)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
