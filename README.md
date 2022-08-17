@@ -28,7 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Sharma-1999)](https://github.com/anuraghazra/github-readme-stats)
 
-
+NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 <!--
 **Abhishek-Sharma-1999/Abhishek-Sharma-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
