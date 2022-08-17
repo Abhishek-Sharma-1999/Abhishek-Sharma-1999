@@ -10,7 +10,7 @@
   <img align="left" alt="Abhishek's GFG" width="32px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" />
 </a>
 <a href="https://www.codechef.com/users/abhi8039">
-  <img align="left" alt="Abhishek's CodeChef" width="32px" src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" />
+  <img align="left" alt="Abhishek's CodeChef" width="35px" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/409b43a61a801784659d7920aff73027.png" />
 </a>
 <br>
 <br>
