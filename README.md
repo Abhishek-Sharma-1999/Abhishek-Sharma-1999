@@ -4,7 +4,7 @@
 
 ## Coding Profiles:
 <a href="https://leetcode.com/user4703k/">
-  <img align="left" alt="Abhishek's Leetcode" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
+  <img align="left" alt="Abhishek's Leetcode" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/abhisheksharmaas536871/practice/">
   <img align="left" alt="Abhishek's GFG" width="32px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" />
