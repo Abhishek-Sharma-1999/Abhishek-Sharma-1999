@@ -2,6 +2,21 @@
 
 ### I'm currently a postgraduate student at Bharati Vidyapeeth's Institute of Computer Applications and Management(BVICAM), pursuing MCA .I have done Bachelor of Computer Applications (BCA) in my graduation From JIMS , Ip University. Currently I am learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and also learning web development.
 
+## Coding Profiles:
+<a href="https://leetcode.com/user4703k/">
+  <img align="left" alt="Abhishek's Leetcode" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/abhisheksharmaas536871/practice/">
+  <img align="left" alt="Abhishek's GFG" width="32px" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" />
+</a>
+<a href="https://www.codechef.com/users/abhi8039">
+  <img align="left" alt="Abhishek's CodeChef" width="32px" src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" />
+</a>
+<br>
+<br>
+
+
+## Total Contributions and Streak :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Sharma-1999)](https://git.io/streak-stats)
 
