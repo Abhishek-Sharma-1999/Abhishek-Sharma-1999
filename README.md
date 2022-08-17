@@ -1,4 +1,4 @@
-# Hi there , I 'm Abhishek Sharma 👋
+# Hey there , I 'm ABHISHEK SHARMA 👋
 
 ### I'm currently a postgraduate student at Bharati Vidyapeeth's Institute of Computer Applications and Management(BVICAM), pursuing MCA .I have done Bachelor of Computer Applications (BCA) in my graduation From JIMS , Ip University. Currently I am learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and also learning web development.
 
