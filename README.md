@@ -15,6 +15,12 @@
 <br>
 <br>
 
+## Connect with Me:
+<a href="https://www.linkedin.com/in/abhisheksharma1999/">
+  <img align="left" alt="Abhishek's LinkedIN" width="35px" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
+</a>
+<br>
+<br>
 
 ## Total Contributions and Streak :
 
