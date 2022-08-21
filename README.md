@@ -3,7 +3,7 @@
 ### I'm currently a postgraduate student at Bharati Vidyapeeth's Institute of Computer Applications and Management(BVICAM), pursuing MCA .I have done Bachelor of Computer Applications (BCA) in my graduation From JIMS , Ip University. Currently I am learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and also learning web development.
 
 ## Coding Profiles:
-<a href="https://leetcode.com/user4703k/">
+<a href="https://leetcode.com/Abhishek_Sharma_1999/">
   <img align="left" alt="Abhishek's Leetcode" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/abhisheksharmaas536871/practice/">
