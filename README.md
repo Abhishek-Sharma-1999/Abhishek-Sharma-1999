@@ -26,8 +26,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Sharma-1999)](https://git.io/streak-stats)
 
-## LeetCode Status :
-<p align="center"> <img align="left" src="https://leetcode-stats.vercel.app/api?username=Abhishek_Sharma_1999&theme=Light" alt="dhruba-datta" /> 
+<!-- ## LeetCode Status :
+<p align="center"> <img align="left" src="https://leetcode-stats.vercel.app/api?username=Abhishek_Sharma_1999&theme=Light" alt="dhruba-datta" />  -->
+<br>
+<!-- <br>
 <br>
 <br>
 <br>
@@ -35,9 +37,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+<br> -->
 
 ## Github Status :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Sharma-1999&show_icons=true)
