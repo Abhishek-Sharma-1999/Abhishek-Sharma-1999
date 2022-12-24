@@ -49,7 +49,7 @@
 NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 
 ## Contribution Graph :
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhishek-Sharma-1999&bg_color=ffffff&color=000000&line=0c0d1d&point=534646&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abhishek-Sharma-1999&bg_color=372f31&color=ededed&line=fcf8fb&point=f6efef&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **Abhishek-Sharma-1999/Abhishek-Sharma-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
