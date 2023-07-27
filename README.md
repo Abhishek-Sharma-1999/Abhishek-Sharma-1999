@@ -52,8 +52,7 @@ NOTE: Top Languages does not indicate my skill level or anything like that; it's
 ![My Image](Leetcode-badge.JPG)
 
 ## Contribution Graph :
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abhishek-Sharma-1999&bg_color=372f31&color=ededed&line=fcf8fb&point=f6efef&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Sharma-1999&bg_color=050505&color=38e8ff&line=f03362&point=3ff0fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **Abhishek-Sharma-1999/Abhishek-Sharma-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
