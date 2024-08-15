@@ -1,6 +1,25 @@
 # Hey there , I 'm [ABHISHEK SHARMA](https://abhishek-sharma-1999.github.io/abhishek.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 ## About Me :
-### I'm currently a postgraduate student at Bharati Vidyapeeth's Institute of Computer Applications and Management(BVICAM), pursuing MCA .I have done Bachelor of Computer Applications (BCA) in my graduation From JIMS , Ip University. Currently I am learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and also learning web development.
+### I'm currently a Software Engineer . I have done my Master's and Bachelor's form IP University, Delhi . Currently I am enhancing my problem solving skills more through learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering. I am a Node-js Developer in my current Organisation.
+
+## :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"  title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-line.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</div>
 
 ## Coding Profiles:
 <a href="https://leetcode.com/Abhishek_Sharma_1999/">
@@ -29,15 +48,7 @@
 <!-- ## LeetCode Status :
 <p align="center"> <img align="left" src="https://leetcode-stats.vercel.app/api?username=Abhishek_Sharma_1999&theme=Light" alt="dhruba-datta" />  -->
 <br>
-<!-- <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br> -->
+
 
 ## Github Status :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-Sharma-1999&show_icons=true)
@@ -47,9 +58,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Sharma-1999)](https://github.com/anuraghazra/github-readme-stats)
 
 NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.
-
-## LeetCode Badge:
-![My Image](Leetcode-badge.JPG)
 
 ## Contribution Graph :
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-Sharma-1999&bg_color=050505&color=38e8ff&line=f03362&point=3ff0fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
